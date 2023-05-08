@@ -4,10 +4,9 @@ This repository showcases my R projects and learning experiences from school. I 
 
 ## Contents
 
-- [Statistical Modeling Project](./statistical-modeling)
-- [Linear Programming Project](./linear-programming)
-- [PLACEHOLDER](./PH)
-- [Additional Projects](./additional-projects)
+- Statistical Modeling Project
+- Linear Programming Project
+- Additional Projects
 
 ## Statistical Modeling Project
 
@@ -15,9 +14,10 @@ In this project, I developed statistical models to analyze and predict trends in
 
 - A brief description of the dataset and objectives
 - The R script containing the statistical modeling code
-- A summary of the results and insights
 
-[Link to Statistical Modeling Project](./statistical-modeling)
+[BA216-Homework](./BA216_homework2.R)
+
+[BA216-LinearRegression](./BA216_groupWork_linearRegression.R)
 
 ## Linear Programming Project
 
@@ -25,9 +25,8 @@ In this project, I applied linear programming techniques to solve optimization p
 
 - A brief description of the problem and objectives
 - The R script containing the linear programming code
-- A summary of the results and insights
 
-[BA452 Intro to ROI](./BA452.%20Intro%20to%20ROI.R)
+[BA452-Intro to ROI](./BA452.%20Intro%20to%20ROI.R)
 
 [BA452-LP Application](./BA452-LP%20Application.R)
 

@@ -29,6 +29,14 @@ In this project, I applied linear programming techniques to solve optimization p
 
 [BA452 Intro to ROI R Script](./BA452.%20Intro%20to%20ROI.R)
 
+[BA452-LP Application](./BA452-LP%20Application.R)
+
+[BA452-Intro to LP Application](./BA452-Intro%20to%20LP%20Application.R)
+
+[BA452-Integer Programming](./BA452-Integer%20Programming%20.R)
+
+[BA452-Goal Programming](./BA452-Goal%20Programming.R)
+
 
 ## PLACEHOLDER
 

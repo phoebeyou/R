@@ -27,7 +27,7 @@ In this project, I applied linear programming techniques to solve optimization p
 - The R script containing the linear programming code
 - A summary of the results and insights
 
-[Link to Linear Programming Project](./linear-programming)
+[BA452 Intro to ROI R Script](./BA452.%20Intro%20to%20ROI.R)
 
 
 ## PLACEHOLDER
